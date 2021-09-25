@@ -51,6 +51,7 @@
                 // 'images/bg03.jpg': 'center'
                 'https://tva1.sinaimg.cn/large/0072Vf1pgy1foxlnjjpbxj31hc0u0k63.jpg': 'center',
                 'https://tva2.sinaimg.cn/large/0072Vf1pgy1foxkj1cgi7j31hc0u0n9m.jpg': 'center',
+                'https://tva3.sinaimg.cn/large/0072Vf1pgy1foxlnbw4y0j31kw0w0e75.jpg': 'center',
             },
 
             // Delay.
